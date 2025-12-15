@@ -1,0 +1,70 @@
+*Projektötlet és téma kiválasztása*
+
+Prompt:
+NLP – Introduction to Natural Language Text Processing órára kell beadandót csináljak. Milyen projektötletek férnek bele az órán tanult anyagba?
+
+Prompt:
+Mondj több (kb. 10) lehetséges NLP projektötletet.
+
+Prompt:
+Egy SMS spam detection jellegű feladat mennyire lenne megfelelő ehhez a tárgyhoz?
+
+*Adatforrás és projektstruktúra*
+
+Prompt:
+Ez a HuggingFace dataset jó lehet a projekthez? (SMS Spam Collection)
+
+Prompt:
+Csináltam egy notebookot. Az órai kódok és anyagok alapján össze tudod szedni a szükséges lépéseket?
+
+*Exploratory Data Analysis és előfeldolgozás*
+
+Prompt:
+A vizualizáció ebben az esetben exploratory data analysis-nek számít?
+
+Prompt:
+Mit jelent pontosan a spam vs ham osztályozás?
+
+Prompt:
+Milyen vizualizációk indokoltak egy ilyen NLP feladatnál?
+
+Prompt:
+Miért így történik a szövegek tisztítása? Mire szolgál a text cleaning ebben a projektben?
+
+*Feature extraction és modellezés*
+
+Prompt:
+Python alapú megoldásokat használjunk, az órán tanult stílus szerint.
+
+Prompt:
+Egy 4-es szintű beadandóhoz szükséges több modell használata?
+
+Prompt:
+Lehet két különböző modellt két különböző vectorizerrel összehasonlítani?
+
+Prompt:
+Milyen modelleket tanultunk az órán, és ezek közül melyek alkalmasak spam detection feladatra?
+
+Prompt:
+Hogyan válasszam szét helyesen a train, validation és test adatokat?
+
+*Értékelés és benchmarking*
+
+Prompt:
+A modellek értékelését lehetne táblázatos formában és grafikonokkal is bemutatni?
+
+Prompt:
+A benchmarking alatt a modellek teljesítményének grafikus összehasonlítását értjük?
+
+*Projektlezárás és prezentáció*
+
+Prompt:
+Nem szeretnék felesleges részeket a notebookban. Meg tudod nézni, mi hagyható el?
+
+Prompt:
+Segítesz egy 5–10 perces magyar nyelvű videónarráció megírásában, amelyben szakmai szempontból el van magyarázva, mit miért csináltunk a projekt során?
+
+*Megjegyzés*
+
+A generatív nyelvi modell támogató szerepet töltött be a projekt során.
+A végső implementáció, modellválasztás és értékelés a beadandót készítő hallgató saját munkája.
